@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11289" started-at="2016-09-17T08:14:38Z" finished-at="2016-09-17T08:14:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11289" started-at="2016-09-17T08:14:38Z" finished-at="2016-09-17T08:14:50Z">
+      <class name="AssertingPKG.BootStrapDropdown">
+        <test-method status="PASS" signature="handleBootstrapdropdown()[pri:0, instance:AssertingPKG.BootStrapDropdown@7ca48474]" name="handleBootstrapdropdown" duration-ms="11263" started-at="2016-09-17T13:44:38Z" finished-at="2016-09-17T13:44:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- handleBootstrapdropdown -->
+      </class> <!-- AssertingPKG.BootStrapDropdown -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
